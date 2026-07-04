@@ -13,6 +13,9 @@
   <a href="https://leetcode.com/u/22pa1a4226/">
     <img src="https://img.shields.io/badge/LEETCODE-22pa1a4226-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://kaggle.com/jvsiddharthach">
+    <img src="https://img.shields.io/badge/KAGGLE-jvsiddharthach-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
   <a href="https://siddhartha-45.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-FF00FF?style=flat-square&logo=vercel&logoColor=white" />
   </a>
@@ -21,7 +24,19 @@
   </a>
 </p>
 
-📡 `SYSTEM_STATUS: ONLINE` &nbsp;|&nbsp; `DIAGNOSTICS_TAPS:` <img src="https://profile-counter.glitch.me/siddhartha-45/count.svg" alt="Visitor Count" valign="middle" />
+📡 `SYSTEM_STATUS: ONLINE` &nbsp;|&nbsp; `DIAGNOSTICS_TAPS:` <img src="https://komarev.com/ghpvc/?username=siddhartha-45&label=Profile%20views&color=00F0FF&style=flat-square" alt="siddhartha-45" valign="middle" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhartha-45&theme=tokyonight&no-bg=true&margin-w=15" alt="siddhartha-45 trophies" />
+</a>
 
 </div>
 
@@ -41,9 +56,9 @@ telemetry:
   mission: Architecting production-ready Deep Learning, NLP, and Full-Stack applications
   capabilities:
     - Designing Agentic RAG Q&A pipelines & NLP models (NVIDIA NeMo, Hugging Face)
-    - Full-Stack app modernization (React TS, PostgreSQL, Flask, MongoDB)
-    - Performance & Security optimization (Role-based auth, OCR pipelines, 3D viz)
-    - Scalable system deployment (Uptime assurance, vector space indexing)
+    - Full-Stack development across Web, Mobile & Embedded systems
+    - Algorithmic Problem Solving (350+ LeetCode problems solved)
+    - Deep Learning & Computer Vision (TensorFlow, PyTorch, OpenCV, Scikit-Learn)
 ```
 
 ---
@@ -53,7 +68,7 @@ telemetry:
 ### 🧠 Machine Learning Intern — *Enligence Technologies, Bengaluru*
 > `TIMEFRAME: DEC - FEB` &nbsp;|&nbsp; `DOMAIN: AI / NLP`
 - **Agentic RAG Engine**: Designed and constructed a PDF-based Agentic RAG Q&A system and an NLP pronunciation scoring model using Hugging Face APIs and speech datasets, boosting automated evaluation accuracy by **65%**.
-- **LLM Deployments**: Orchestrated, managed, and deployed LLMs, NVIDIA NeMo, and RAG pipelines to cloud hosting with **99% uptime** assurance.
+- **LLM Deployments**: Deployed LLMs, NVIDIA NeMo, and RAG pipelines to cloud hosting with **99% uptime** assurance.
 
 ### 🔌 Full Stack Developer Intern — *Rashtriya Ispat Nigam Limited (RINL), Visakhapatnam*
 > `TIMEFRAME: MAY - JUN` &nbsp;|&nbsp; `DOMAIN: SYSTEM INTEGRATION`
@@ -68,13 +83,66 @@ telemetry:
 
 | Core Module | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML/CSS` |
-| **Databases** | `PostgreSQL` &nbsp; `MySQL` &nbsp; `MongoDB` &nbsp; `Firebase` &nbsp; `Snowflake` |
-| **AI/ML Focus** | `Agentic RAG` &nbsp; `Deep Learning` &nbsp; `NLP` &nbsp; `Computer Vision` &nbsp; `NVIDIA NeMo` &nbsp; `Hugging Face` |
-| **Frameworks** | `Flask` &nbsp; `TensorFlow` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `React` &nbsp; `TailwindCSS` |
-| **DevOps & Tools** | `Git` &nbsp; `Docker` &nbsp; `Linux` &nbsp; `VS Code` &nbsp; `Postman` |
+| **Languages** | `Python` &nbsp; `Java` &nbsp; `C` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML5/CSS3` |
+| **AI/ML & Data Science** | `TensorFlow` &nbsp; `PyTorch` &nbsp; `Scikit-Learn` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `OpenCV` &nbsp; `Agentic RAG` |
+| **Frontend & Mobile** | `React` &nbsp; `React Native` &nbsp; `NativeScript` &nbsp; `TailwindCSS` &nbsp; `Chart.js` |
+| **Backend & Cloud** | `Node.js` &nbsp; `Express` &nbsp; `Flask` &nbsp; `Nginx` &nbsp; `Firebase` &nbsp; `Google Cloud (GCP)` |
+| **Databases** | `PostgreSQL` &nbsp; `MySQL` &nbsp; `Microsoft SQL Server` &nbsp; `MongoDB` &nbsp; `Snowflake` |
+| **IoT & Systems** | `Arduino` &nbsp; `Linux` |
+| **Tools & Design** | `Git` &nbsp; `Docker` &nbsp; `Postman` &nbsp; `VS Code` &nbsp; `Figma` &nbsp; `Adobe Illustrator` |
 
 </div>
+
+### 💻 Visual Stack Grid
+
+<p align="center">
+  <!-- Languages & Logic -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- AI/ML & Databases -->
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks & Backends -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- Hardware, Systems & Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+</p>
 
 ---
 
@@ -160,10 +228,6 @@ telemetry:
   </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha-45&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-
 </div>
 
 ---
@@ -177,6 +241,7 @@ telemetry:
   "email": "siddharthachitikela30@gmail.com",
   "linkedin": "https://www.linkedin.com/in/chjvsiddhartha1545",
   "leetcode": "https://leetcode.com/u/22pa1a4226/",
+  "kaggle": "https://www.kaggle.com/jvsiddharthach",
   "portfolio": "https://siddhartha-45.vercel.app/",
   "github": "https://github.com/siddhartha-45"
 }
