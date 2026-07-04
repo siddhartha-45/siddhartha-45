@@ -31,19 +31,36 @@
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B540,100:00C7B540&height=90&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-🎓 &nbsp;**AI/ML Engineer** & **Full Stack Developer** from Bhimavaram, India, on a mission to turn complex ideas into products people actually use.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-🧠 &nbsp;I build **Agentic RAG pipelines**, **Voice AI systems**, and end-to-end web apps — currently deep-diving into **Multi-Agent AI**, **LLMs**, and **AI Infrastructure**.
+> 🎓 &nbsp;**AI/ML Engineer** & **Full Stack Developer** from Bhimavaram, India, on a mission to turn complex ideas into products people actually use.
+>
+> 🧠 &nbsp;I build **Agentic RAG pipelines**, **Voice AI systems**, and end-to-end web apps — currently deep-diving into **Multi-Agent AI**, **LLMs**, and **AI Infrastructure**.
+>
+> 💼 &nbsp;Previously interned at **RINL** and **Enligence Technologies**, shipping production-grade tools used by real teams.
+>
+> ⚡ &nbsp;Fun fact: **350+ LeetCode problems solved** and a **5⭐ HackerRank** rating in SQL & Python.
+>
+> 🔭 &nbsp;When I'm not coding, I'm probably breaking something in production just to fix it better. 😄
 
-💼 &nbsp;Previously interned at **RINL** and **Enligence Technologies**, shipping production-grade tools used by real teams.
+</td>
+<td width="35%" valign="top" align="center">
 
-⚡ &nbsp;Fun fact: **350+ LeetCode problems solved** and a **5⭐ HackerRank** rating in SQL & Python.
+<img width="230" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<br/>
+<img width="230" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 
-🔭 &nbsp;When I'm not coding, I'm probably breaking something in production just to fix it better. 😄
+</td>
+</tr>
+</table>
 
-<br clear="right"/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+</div>
 
 <br/>
 
@@ -52,7 +69,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhartha-45&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha-45&theme=radical&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=siddhartha-45&theme=radical&hide_border=true" />
 
 <br/>
 
