@@ -59,7 +59,7 @@
 </table>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Fix%20the%20cause%2C%20not%20the%20symptom.&author=Steve%20Maguire" width="100%"/>
 </div>
 
 <br/>
