@@ -3,21 +3,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=220&section=header&text=Hi%20There,%20I'm%20Siddhartha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20GenAI%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://siddhartha-45.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Live-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/chjvsiddhartha1545">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:siddharthachitikela30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/22pa1a4226">
-  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/22pa1a4226">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://github.com/siddhartha-45">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Agentic+RAG+%26+LLM-powered+systems;Full+Stack+Developer+%7C+React+%2B+TypeScript+%2B+PostgreSQL;AI%2FML+Engineer+%7C+TensorFlow+%2B+PyTorch+%2B+NLP;Turning+ideas+into+scalable%2C+intelligent+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&height=45&lines=Building+Agentic+RAG+%26+LLM-powered+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -28,17 +34,35 @@
 ```yaml
 name: Jishnu Venkata Siddhartha Chitikela
 role: AI/ML Engineer • Full Stack Developer • GenAI Engineer
-education: B.Tech CSE (AIML), Vishnu Institute of Technology — CGPA 9.2
 location: Bhimavaram, Andhra Pradesh, India
 currently_building: Agentic RAG pipelines, Voice AI systems & scalable web apps
 exploring: Multi-Agent AI • LLMs • System Design • Cloud & AI Infrastructure
+previously_interned: Rashtriya Ispat Nigam Limited (RINL) • Enligence Technologies
 fun_fact: 350+ LeetCode problems solved, 5⭐ on HackerRank in SQL & Python
 ```
 
-- 💼 **Full Stack Developer Intern** @ Rashtriya Ispat Nigam Limited (RINL) — built a centralized inventory & production platform that improved decision-making speed by 40%
-- 🤖 **Machine Learning Intern** @ Enligence Technologies — built Agentic RAG pipelines & NLP pronunciation scoring, boosting evaluation accuracy by 65%
-- 🏆 Selected in **top 30/2200+ teams** at the Caterpillar Hackathon, and shortlisted internally for **Smart India Hackathon** (2023 & 2024)
-- 📫 Reach me at **siddharthachitikela30@gmail.com**
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhartha-45&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha-45&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-45&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha-45&theme=react-dark&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddhartha-45&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
 
 <br/>
 
@@ -167,9 +191,9 @@ Explore the full collection of AI/ML experiments, full-stack builds, and open-so
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/22pa1a4226/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%E2%98%85%20SQL%20%26%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/22pa1a4226)
-[![GitHub](https://img.shields.io/badge/GitHub-siddhartha--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhartha-45)
+<a href="https://leetcode.com/u/22pa1a4226/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/22pa1a4226"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://github.com/siddhartha-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://leetcode-stats-nikhil.vercel.app/api?username=22pa1a4226&theme=radical" alt="LeetCode Stats" />
 
@@ -177,42 +201,15 @@ Explore the full collection of AI/ML experiments, full-stack builds, and open-so
 
 <br/>
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhartha-45&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha-45&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-45&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha-45&theme=react-dark&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhartha-45&theme=radical&no-frame=true&row=1&column=6" />
+<a href="#"><img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-ML%20%26%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Google-Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 </div>
-
-<br/>
-
-## 🎓 Education
-
-| Institution | Degree / Level | Score | Year |
-|---|---|---|---|
-| Vishnu Institute of Technology | B.Tech, CSE (AIML) | CGPA 9.2 | 2022 – 2026 |
-| Aditya Junior College | Class 12 | 94.4% | 2022 |
-| Sri Chaitanya Techno School | Class 10 | 95.33% | 2020 |
-
-## 📜 Certifications
-
-- 🟩 **NVIDIA** — Fundamentals of Deep Learning
-- 🟧 **AWS** — Machine Learning & Cloud Foundations
-- 🟦 **Google** — Generative AI Certificate
 
 ## 🏆 Achievements
 
@@ -227,11 +224,11 @@ Explore the full collection of AI/ML experiments, full-stack builds, and open-so
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-siddhartha--45.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhartha-45.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chjvsiddhartha1545-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chjvsiddhartha1545)
-[![Gmail](https://img.shields.io/badge/Email-siddharthachitikela30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthachitikela30@gmail.com)
+<a href="https://siddhartha-45.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chjvsiddhartha1545"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:siddharthachitikela30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhartha-45&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
 
