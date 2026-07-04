@@ -31,15 +31,19 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Jishnu Venkata Siddhartha Chitikela
-role: AI/ML Engineer • Full Stack Developer • GenAI Engineer
-location: Bhimavaram, Andhra Pradesh, India
-currently_building: Agentic RAG pipelines, Voice AI systems & scalable web apps
-exploring: Multi-Agent AI • LLMs • System Design • Cloud & AI Infrastructure
-previously_interned: Rashtriya Ispat Nigam Limited (RINL) • Enligence Technologies
-fun_fact: 350+ LeetCode problems solved, 5⭐ on HackerRank in SQL & Python
-```
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+🎓 &nbsp;**AI/ML Engineer** & **Full Stack Developer** from Bhimavaram, India, on a mission to turn complex ideas into products people actually use.
+
+🧠 &nbsp;I build **Agentic RAG pipelines**, **Voice AI systems**, and end-to-end web apps — currently deep-diving into **Multi-Agent AI**, **LLMs**, and **AI Infrastructure**.
+
+💼 &nbsp;Previously interned at **RINL** and **Enligence Technologies**, shipping production-grade tools used by real teams.
+
+⚡ &nbsp;Fun fact: **350+ LeetCode problems solved** and a **5⭐ HackerRank** rating in SQL & Python.
+
+🔭 &nbsp;When I'm not coding, I'm probably breaking something in production just to fix it better. 😄
+
+<br clear="right"/>
 
 <br/>
 
@@ -195,7 +199,7 @@ Explore the full collection of AI/ML experiments, full-stack builds, and open-so
 <a href="https://www.hackerrank.com/profile/22pa1a4226"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://github.com/siddhartha-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://leetcode-stats-nikhil.vercel.app/api?username=22pa1a4226&theme=radical" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/22pa1a4226?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
@@ -205,9 +209,9 @@ Explore the full collection of AI/ML experiments, full-stack builds, and open-so
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-ML%20%26%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Google-Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ML%20%26%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
