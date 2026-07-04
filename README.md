@@ -1,254 +1,240 @@
 <div align="center">
 
-<!-- Cyberpunk Styled Terminal Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=900&lines=JISHNU+VENKATA+SIDDHARTHA;SYSTEM+INIT:+SUCCESS;ROLE:+AI%2FML+%26+GENAI+ENGINEER" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=220&section=header&text=Hi%20There,%20I'm%20Siddhartha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20GenAI%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="mailto:siddharthachitikela30@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-siddharthachitikela30%40gmail.com-00F0FF?style=flat-square&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/chjvsiddhartha1545">
-    <img src="https://img.shields.io/badge/LINKEDIN-chjvsiddhartha1545-0080FF?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/22pa1a4226/">
-    <img src="https://img.shields.io/badge/LEETCODE-22pa1a4226-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://kaggle.com/jvsiddharthach">
-    <img src="https://img.shields.io/badge/KAGGLE-jvsiddharthach-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://siddhartha-45.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-FF00FF?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/siddhartha-45">
-    <img src="https://img.shields.io/badge/GITHUB-siddhartha--45-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-📡 `SYSTEM_STATUS: ONLINE` &nbsp;|&nbsp; `DIAGNOSTICS_TAPS:` <img src="https://komarev.com/ghpvc/?username=siddhartha-45&label=Profile%20views&color=00F0FF&style=flat-square" alt="siddhartha-45" valign="middle" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhartha-45&theme=tokyonight&no-bg=true&margin-w=15" alt="siddhartha-45 trophies" />
+<a href="https://siddhartha-45.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Live-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-</div>
-
----
-
-# ⚙️ Core Specifications
-
-```yaml
-# system_specifications.yaml
-identity:
-  name: Jishnu Venkata Siddhartha Chitikela
-  specialization: AI/ML & Generative AI Engineer
-  academic: B.Tech CSE (AIML) @ Vishnu Institute of Technology (CGPA: 9.2)
-
-telemetry:
-  status: Active
-  mission: Architecting production-ready Deep Learning, NLP, and Full-Stack applications
-  capabilities:
-    - Designing Agentic RAG Q&A pipelines & NLP models (NVIDIA NeMo, Hugging Face)
-    - Full-Stack development across Web, Mobile & Embedded systems
-    - Algorithmic Problem Solving (350+ LeetCode problems solved)
-    - Deep Learning & Computer Vision (TensorFlow, PyTorch, OpenCV, Scikit-Learn)
-```
-
----
-
-# 📂 Operations Log [Professional Experience]
-
-### 🧠 Machine Learning Intern — *Enligence Technologies, Bengaluru*
-> `TIMEFRAME: DEC - FEB` &nbsp;|&nbsp; `DOMAIN: AI / NLP`
-- **Agentic RAG Engine**: Designed and constructed a PDF-based Agentic RAG Q&A system and an NLP pronunciation scoring model using Hugging Face APIs and speech datasets, boosting automated evaluation accuracy by **65%**.
-- **LLM Deployments**: Deployed LLMs, NVIDIA NeMo, and RAG pipelines to cloud hosting with **99% uptime** assurance.
-
-### 🔌 Full Stack Developer Intern — *Rashtriya Ispat Nigam Limited (RINL), Visakhapatnam*
-> `TIMEFRAME: MAY - JUN` &nbsp;|&nbsp; `DOMAIN: SYSTEM INTEGRATION`
-- **Inventory Engine**: Engineered a centralized inventory and production management platform with real-time dashboards and a PostgreSQL backend, improving data processing speed by **40%**.
-- **Security & RBAC**: Implemented role-based authentication workflows (Admin, Supervisor, Vendor) and email verification, cutting stock discrepancies by **30%** and processing lag by **25%**.
-
----
-
-# 🧬 Skill Matrix
-
-<div align="center">
-
-| Core Module | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python` &nbsp; `Java` &nbsp; `C` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML5/CSS3` |
-| **AI/ML & Data Science** | `TensorFlow` &nbsp; `PyTorch` &nbsp; `Scikit-Learn` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `OpenCV` &nbsp; `Agentic RAG` |
-| **Frontend & Mobile** | `React` &nbsp; `React Native` &nbsp; `NativeScript` &nbsp; `TailwindCSS` &nbsp; `Chart.js` |
-| **Backend & Cloud** | `Node.js` &nbsp; `Express` &nbsp; `Flask` &nbsp; `Nginx` &nbsp; `Firebase` &nbsp; `Google Cloud (GCP)` |
-| **Databases** | `PostgreSQL` &nbsp; `MySQL` &nbsp; `Microsoft SQL Server` &nbsp; `MongoDB` &nbsp; `Snowflake` |
-| **IoT & Systems** | `Arduino` &nbsp; `Linux` |
-| **Tools & Design** | `Git` &nbsp; `Docker` &nbsp; `Postman` &nbsp; `VS Code` &nbsp; `Figma` &nbsp; `Adobe Illustrator` |
-
-</div>
-
-### 💻 Visual Stack Grid
-
-<p align="center">
-  <!-- Languages & Logic -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- AI/ML & Databases -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks & Backends -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Hardware, Systems & Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</p>
-
----
-
-# 🏆 Milestones
-
-- 🚀 **Caterpillar Hackathon** — Shortlisted in top **30 teams** out of 2200+ teams.
-- 🥇 **Smart India Hackathon** — Selected from internal level rounds in both **2023** and **2024**.
-- ⭐ **HackerRank Star** — Verified **5-Star** problem solver in SQL and Python.
-- 💻 **LeetCode Coder** — Solved **350+** algorithmic and data structure problems.
-
----
-
-# 🛠️ Deployed Prototypes [Projects]
-
-### 🤖 [Agentic RAG System](https://github.com/siddhartha-45/Agentic-RAG)
-> **KNOWLEDGE BASE SEARCH ENGINE**
-- Extracts text from PDFs and retrieves relevant fragments using FAISS and Sentence Transformers.
-- Employs BART for summary generation with web search backup fallback.
-- Streamlit interface for PDF uploads, queries, and model comparisons.
-```javascript
-// Stack: Python, FAISS, Sentence Transformers, BART, Streamlit
-```
-
----
-
-### 🩺 [Medical Report Summarizer & Suggestor](https://github.com/siddhartha-45/MedicalReport_Summarizer)
-> **AI HEALTHCARE ASSISTANT**
-- Extracts text from diagnostic PDF/image medical reports using OCR.
-- Leverages LLaMA 3.3 (70B) via Groq LLM API to evaluate issues, rate severity, and suggest diet/lifestyle changes.
-```javascript
-// Stack: Python, Groq LLM API, LLaMA 3.3, OCR, Streamlit
-```
-
----
-
-### 🏗️ [Smart Forge (Lifespan Prediction)](https://github.com/siddhartha-45/Smart_Forge)
-> **MANUFACTURING PREDICTIVE AI**
-- Predicts material properties, lifespan, defects, and machine failures using TensorFlow models.
-- Features interactive Three.js 3D visualizations displaying machinery defect hotspots.
-```javascript
-// Stack: TensorFlow, Flask, React, Three.js, IoT Data
-```
-
----
-
-### 📦 [Inventory Management System](https://github.com/siddhartha-45/Material-Management-System)
-> **ENTERPRISE TRANSACTION TRACKER**
-- Centralized tracking system streamlining inventory workflows and vendor orders.
-- Reduced manual errors by 60% and improved coordination across multiple departments.
-```javascript
-// Stack: React, TypeScript, PostgreSQL, HTML/CSS
-```
-
----
-
-### 🛡️ [MedIntel](https://github.com/siddhartha-45/MedIntel)
-> **SECURE HEALTH RECORD REGISTRY**
-- Full-stack medical repository with OCR extraction and classification logic.
-- Predicts diseases and maps precautions with 95%+ classification accuracy.
-```javascript
-// Stack: Flask, MongoDB, OCR, Machine Learning
-```
-
----
-
-# 📊 Telemetry Feed [GitHub Analytics]
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=siddhartha-45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-45&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhartha-45&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-# 🌐 System Interconnects
-
-<div align="center">
-
-```json
-{
-  "email": "siddharthachitikela30@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/chjvsiddhartha1545",
-  "leetcode": "https://leetcode.com/u/22pa1a4226/",
-  "kaggle": "https://www.kaggle.com/jvsiddharthach",
-  "portfolio": "https://siddhartha-45.vercel.app/",
-  "github": "https://github.com/siddhartha-45"
-}
-```
+<a href="https://www.linkedin.com/in/chjvsiddhartha1545">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:siddharthachitikela30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/22pa1a4226">
+  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 <br/>
 
-#### 💡 *“Combining AI intelligence with clean engineering to build what matters.”*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Agentic+RAG+%26+LLM-powered+systems;Full+Stack+Developer+%7C+React+%2B+TypeScript+%2B+PostgreSQL;AI%2FML+Engineer+%7C+TensorFlow+%2B+PyTorch+%2B+NLP;Turning+ideas+into+scalable%2C+intelligent+products" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```yaml
+name: Jishnu Venkata Siddhartha Chitikela
+role: AI/ML Engineer • Full Stack Developer • GenAI Engineer
+education: B.Tech CSE (AIML), Vishnu Institute of Technology — CGPA 9.2
+location: Bhimavaram, Andhra Pradesh, India
+currently_building: Agentic RAG pipelines, Voice AI systems & scalable web apps
+exploring: Multi-Agent AI • LLMs • System Design • Cloud & AI Infrastructure
+fun_fact: 350+ LeetCode problems solved, 5⭐ on HackerRank in SQL & Python
+```
+
+- 💼 **Full Stack Developer Intern** @ Rashtriya Ispat Nigam Limited (RINL) — built a centralized inventory & production platform that improved decision-making speed by 40%
+- 🤖 **Machine Learning Intern** @ Enligence Technologies — built Agentic RAG pipelines & NLP pronunciation scoring, boosting evaluation accuracy by 65%
+- 🏆 Selected in **top 30/2200+ teams** at the Caterpillar Hackathon, and shortlisted internally for **Smart India Hackathon** (2023 & 2024)
+- 📫 Reach me at **siddharthachitikela30@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Backend & APIs**
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Databases & Cloud**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Agentic RAG System](https://github.com/siddhartha-45/Agentic-RAG)
+End-to-end RAG system that extracts text from research PDFs, retrieves relevant content using FAISS & Sentence Transformers, and generates answers using BART or web-search fallback — with a Streamlit UI for upload, querying & model comparison.
+
+`Python` `FAISS` `Sentence Transformers` `BART` `Streamlit` `RAG` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 [Smart Forge — Defect & Failure Prediction](https://github.com/siddhartha-45/Smart_Forge)
+AI-driven full-stack platform that predicts material properties, detects defects, estimates product lifespan, and forecasts machine failures using real-time data with 3D visualizations. Improved quality-control accuracy by **92%**.
+
+`TensorFlow` `Flask` `React` `3D Visualization` `IoT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Medical Report Summarizer & Suggestor](https://github.com/siddhartha-45/MedicalReport_Summarizer)
+Extracts text from PDF/image medical reports via OCR, analyzes with Groq's LLaMA 3.3 70B to flag issues, rate severity, recommend specialists, and suggest diet/lifestyle changes. Streamlit web app + CLI.
+
+`Python` `OCR` `Groq LLM` `LLaMA 3.3` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [MedIntel — Medical Intelligence System](https://github.com/siddhartha-45/MedIntel.git)
+Secure healthcare records platform with OCR + LLM-based analysis achieving **95%+ accuracy** categorizing prescriptions/diagnostics across 500+ records, plus ML-based disease prediction.
+
+`Flask` `MongoDB` `OCR` `LLM Analysis` `Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Material & Inventory Management System](https://github.com/siddhartha-45/Material-Management-System.git)
+Digitized vendor approvals & inventory tracking with role-based auth and real-time dashboards — reduced manual errors by 35–60% and cut procurement delays by 20%.
+
+`React` `TypeScript` `PostgreSQL` `Real-time Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 More on GitHub
+Explore the full collection of AI/ML experiments, full-stack builds, and open-source contributions on my profile.
+
+[![View All Repos](https://img.shields.io/badge/View%20All-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhartha-45?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/22pa1a4226/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%E2%98%85%20SQL%20%26%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/22pa1a4226)
+[![GitHub](https://img.shields.io/badge/GitHub-siddhartha--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhartha-45)
+
+<img src="https://leetcode-stats-nikhil.vercel.app/api?username=22pa1a4226&theme=radical" alt="LeetCode Stats" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhartha-45&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha-45&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-45&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha-45&theme=react-dark&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddhartha-45&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+| Institution | Degree / Level | Score | Year |
+|---|---|---|---|
+| Vishnu Institute of Technology | B.Tech, CSE (AIML) | CGPA 9.2 | 2022 – 2026 |
+| Aditya Junior College | Class 12 | 94.4% | 2022 |
+| Sri Chaitanya Techno School | Class 10 | 95.33% | 2020 |
+
+## 📜 Certifications
+
+- 🟩 **NVIDIA** — Fundamentals of Deep Learning
+- 🟧 **AWS** — Machine Learning & Cloud Foundations
+- 🟦 **Google** — Generative AI Certificate
+
+## 🏆 Achievements
+
+- 🌟 **HackerRank** — 5-star problem solver in SQL & Python
+- 🐛 **Caterpillar Hackathon** — Selected in top 30 of 2200+ teams
+- 🇮🇳 **Smart India Hackathon** — Selected via internal hackathons (2023 & 2024)
+- 💻 **LeetCode** — 350+ problems solved
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-siddhartha--45.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhartha-45.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chjvsiddhartha1545-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chjvsiddhartha1545)
+[![Gmail](https://img.shields.io/badge/Email-siddharthachitikela30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthachitikela30@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=siddhartha-45&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0077B5&height=120&section=footer" width="100%"/>
 
 </div>
